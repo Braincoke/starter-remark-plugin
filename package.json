@@ -1,0 +1,16 @@
+{
+  "name": "starter-remark-plugin",
+  "version": "1.0.0",
+  "description": "A minimal example of a remark plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Braincoke",
+  "license": "MIT",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "jest": "^25.1.0",
+    "remark": "^11.0.2"
+  }
+}
